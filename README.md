@@ -56,5 +56,5 @@ My journey in cybersecuirity has led me to develop a passion for IT, and I am no
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/xExozx/-Active-Directory-Lab/tree/main">Active Directory Lab</a>
 - SOC Automation Project
