@@ -11,7 +11,7 @@ I am a graduate with a profound interest in cybersecurity and a dedication to le
 My journey in cybersecuirity has led me to develop a passion for IT, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
