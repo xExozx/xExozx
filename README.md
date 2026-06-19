@@ -16,7 +16,7 @@ My journey in cybersecuirity has led me to develop a passion for IT, and I am no
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/xExozx/-Active-Directory-Lab/tree/main">Active Directory Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Attack Detection and Malware Installation | <a href="https://github.com/xExozx/SOC-Home-Lab/tree/main">Soc Home Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -57,4 +57,4 @@ My journey in cybersecuirity has led me to develop a passion for IT, and I am no
 
 ## Projects
 - <a href="https://github.com/xExozx/-Active-Directory-Lab/tree/main">Active Directory Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/xExozx/SOC-Home-Lab/tree/main">Soc Home Lab</a>
