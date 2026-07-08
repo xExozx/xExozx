@@ -58,3 +58,4 @@ My journey in cybersecuirity has led me to develop a passion for IT, and I am no
 ## Projects
 - <a href="https://github.com/xExozx/-Active-Directory-Lab/tree/main">Active Directory Lab</a>
 - <a href="https://github.com/xExozx/SOC-Home-Lab/tree/main">Soc Home Lab</a>
+- <a href="https://github.com/xExozx/Investigating-PCAPs">Investigating PCAPs</a>
