@@ -18,7 +18,7 @@ My journey in cybersecuirity has led me to develop a passion for IT, and I am no
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/xExozx/-Active-Directory-Lab/tree/main">Active Directory Lab</a>|
 | Attack Detection and Malware Installation | <a href="https://github.com/xExozx/SOC-Home-Lab/tree/main">Soc Home Lab</a>|
 | PCAP analysis, Wireshark, threat detection         | <a href="https://github.com/xExozx/Investigating-PCAPs">Investigating PCAPs</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/xExozx/Network-Analysis-Exfiltration-">Network Analysis (Exfiltration)</a>|
+| PCAP analysis, exfiltration detection, investigation      | <a href="https://github.com/xExozx/Network-Analysis-Exfiltration-">Network Analysis (Exfiltration)</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
