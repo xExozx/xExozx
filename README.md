@@ -21,7 +21,7 @@ My journey in cybersecuirity has led me to develop a passion for IT, and I am no
 | PCAP analysis, exfiltration detection, investigation      | <a href="https://github.com/xExozx/Network-Analysis-Exfiltration-">Network Analysis (Exfiltration)</a>|
 | Endpoint forensics, timeline reconstruction, incident response                  | <a href="https://github.com/xExozx/Endpoint-Analysis-WordPress-">Endpoint Analysis (WordPress)</a>|
 | Detected phishing through email analysis | <a href="https://github.com/xExozx/Email-Analysis-Phishing-">Email Analysis (Phishing)</a>| 
-
+| Analyzed malware network traffic effectively | <a href="https://github.com/xExozx/Network-Analysis-Malware-">Network Analysis (Malware)</a>|                 
 ## Tools
 
 
@@ -62,3 +62,4 @@ My journey in cybersecuirity has led me to develop a passion for IT, and I am no
 - <a href="https://github.com/xExozx/Network-Analysis-Exfiltration-">Network Analysis (Exfiltration)</a>
 - <a href="https://github.com/xExozx/Endpoint-Analysis-WordPress-">Endpoint Analysis (WordPress)</a>
 - <a href="https://github.com/xExozx/Email-Analysis-Phishing-">Email Analysis (Phishing)</a>
+- <a href="https://github.com/xExozx/Network-Analysis-Malware-">Network Analysis (Malware)</a>
