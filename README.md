@@ -23,6 +23,7 @@ My journey in cybersecuirity has led me to develop a passion for IT, and I am no
 | Detected phishing through email analysis | <a href="https://github.com/xExozx/Email-Analysis-Phishing-">Email Analysis (Phishing)</a>| 
 | Analyzed malware network traffic effectively | <a href="https://github.com/xExozx/Network-Analysis-Malware-">Network Analysis (Malware)</a>|    
 | Linux privilege escalation investigation skills gained | <a href="https://github.com/xExozx/Privilege-Escalation-Linux-/tree/main">Privilege Escalation (Linux)</a>|
+| Investigated web traffic, identified threats | <a href="https://github.com/xExozx/Web-Investigation-PCAP-">Web Investigation (PCAP)<a/>|
 ## Tools
 
 
@@ -65,3 +66,4 @@ My journey in cybersecuirity has led me to develop a passion for IT, and I am no
 - <a href="https://github.com/xExozx/Email-Analysis-Phishing-">Email Analysis (Phishing)</a>
 - <a href="https://github.com/xExozx/Network-Analysis-Malware-">Network Analysis (Malware)</a>
 - <a href="https://github.com/xExozx/Privilege-Escalation-Linux-/tree/main">Privilege Escalation (Linux)</a>
+- <a href="https://github.com/xExozx/Web-Investigation-PCAP-">Web Investigation (PCAP)<a/>
